@@ -1,0 +1,37 @@
+#title {
+    color: blue;
+}
+
+.recipe {
+    color: red;
+}
+
+a {
+    border: solid;
+}
+
+.body_background {
+    background-color: green;
+}
+
+.body_align {
+    text-align: center;
+}
+
+.decoration, .recipe {
+    text-decoration: underline;
+}
+
+.bold.border {
+    font-weight: 1000;
+    border-style: dotted;
+}
+
+.ancestor, .child {
+    border-style: dashed;
+    border-color: beige;
+}
+
+#parent {
+    font-size: x-large;
+}
