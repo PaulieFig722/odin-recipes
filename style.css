@@ -27,7 +27,8 @@ a {
     border-style: dotted;
 }
 
-.ancestor, .child {
+/* Descendant combinator */
+.ancestor .child {
     border-style: dashed;
     border-color: beige;
 }
